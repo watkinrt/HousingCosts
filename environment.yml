@@ -3,4 +3,5 @@ name: costs
 dependencies:
   - jupyterlab
   - ipywidgets
+  - voila
   
