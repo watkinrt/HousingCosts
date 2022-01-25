@@ -1,0 +1,6 @@
+name: costs
+
+dependencies:
+  - jupyterlab
+  - ipywidgets
+  
